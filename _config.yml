@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
 title: 算法时空
 description: Hello, Algorithms!
-show_downloads: false
+show_downloads: true
 markdown: kramdown
