@@ -1,4 +1,4 @@
-～
+Surely You're Joking, Mr. Algorithm!
 
 ## 视频课程
 
