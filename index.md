@@ -11,9 +11,4 @@ Surely You're Joking, Mr. Algorithm!
 
 ## 数学支持
 
-$\log(n!) = \Theta(n\log{n})$
-
-## 试试看
-
-[Why?](https://xiexiexx.github.io/2020/07/19/Why.html)
-
+[Math](https://xiexiexx.github.io/2020/07/19/Math.html)
